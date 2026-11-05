@@ -1,6 +1,6 @@
 # CybeDefend
 
-> The open source Snyk & Aikido alternative. Agentic AppSec: every scanner in one place, one self-hosted dashboard with security policies, and one command for any coding agent, /cybedefend, that scans, fixes what blocks and says if the code can ship.
+> The open source Snyk alternative. Agentic AppSec: every scanner in one place, one self-hosted dashboard with security policies, and one command for any coding agent, /cybedefend, that scans, fixes what blocks and says if the code can ship.
 
 - [README](README.md): what it does, the command, integrations
 - [Skill](skills/cybedefend/SKILL.md): what your agent runs

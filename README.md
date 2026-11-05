@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://cybedefend.com"><img src="assets/banner.jpg" alt="CybeDefend, the open source Snyk and Aikido alternative" width="100%"></a>
+  <a href="https://cybedefend.com"><img src="assets/banner.jpg" alt="CybeDefend, the open source Snyk alternative" width="100%"></a>
 </p>
 
 <div align="center">
 
 # CybeDefend
 
-### Agentic AppSec and ASPM platform, Snyk & Aikido alternative.
+### Agentic AppSec and ASPM platform, for developers and their coding agents.
 
 **Open source.** All your application security, continuously. Every scanner in one place,<br>
 your policies on every commit, one dashboard for your team and your auditor, one command in your coding agent.
@@ -172,10 +172,9 @@ SOC 2 and ISO 27001 auditors ask for proof that you find and fix vulnerabilities
 |---|---|---|
 | **CybeDefend** | Unlimited users, repos and scans, self-hosted | Open, AGPL-3.0 |
 | Snyk | 100 code tests a month, 5 projects | Proprietary |
-| Aikido | 2 users, 10 repositories | Proprietary |
 | GitHub Code Security | Public repos only, then $30 per active committer a month | Proprietary |
 
-<sub>Figures from snyk.io/plans, aikido.dev/pricing and the GitHub changelog of March 4, 2025, checked on November 3, 2026.</sub>
+<sub>Figures from snyk.io/plans and the GitHub changelog of March 4, 2025, checked on November 3, 2026.</sub>
 
 ## Open source or Cloud
 
@@ -204,4 +203,4 @@ Then open the dashboard, create your admin account and a personal token, and add
 
 <br>
 
-<p align="center"><sub>AGPL-3.0. The scanners keep their own licenses. Built by <a href="https://cybedefend.com">CybeDefend</a>.<br>Snyk, Aikido and GitHub are trademarks of their owners. CybeDefend is not affiliated with them.</sub></p>
+<p align="center"><sub>AGPL-3.0. The scanners keep their own licenses. Built by <a href="https://cybedefend.com">CybeDefend</a>.<br>Snyk and GitHub are trademarks of their owners. CybeDefend is not affiliated with them.</sub></p>
